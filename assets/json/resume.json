@@ -55,12 +55,7 @@
       "location": "New York, NY, USA",
       "startDate": "2025-07-01",
       "endDate": "",
-      "supervisors": [
-        "Prof. Anton Rozhkov",
-        "Prof. Prince Amegbor",
-        "Prof. Zhaoxi Zhang",
-        "Prof. H. Shellae Versey"
-      ],
+      "supervisors": ["Prof. Anton Rozhkov", "Prof. Prince Amegbor", "Prof. Zhaoxi Zhang", "Prof. H. Shellae Versey"],
       "summary": "An immersive experiment using virtual reality and multimodal measurement to study context-specific greenery and its effects on human physiology and psychology.",
       "highlights": [
         "Developed a controlled framework combining immersive virtual reality with multimodal biosensing (EEG, EDA) to investigate human responses to urban greenery exposure.",
@@ -175,13 +170,7 @@
       "startDate": "2024-09-01",
       "endDate": "2026-06-01",
       "score": "GPA: 3.9/4.0",
-      "courses": [
-        "Digital Civics for Innovation",
-        "Creative Coding",
-        "Applied Data Science",
-        "Machine Learning",
-        "Causal Inference"
-      ]
+      "courses": ["Digital Civics for Innovation", "Creative Coding", "Applied Data Science", "Machine Learning", "Causal Inference"]
     },
     {
       "institution": "Nankai University",
@@ -192,12 +181,7 @@
       "startDate": "2020-09-01",
       "endDate": "2024-06-01",
       "score": "GPA: 3.8/4.0",
-      "courses": [
-        "Social Psychology",
-        "Cognitive Psychology",
-        "Big Data Visualization Fundamentals",
-        "Fundamentals of AI"
-      ]
+      "courses": ["Social Psychology", "Cognitive Psychology", "Big Data Visualization Fundamentals", "Fundamentals of AI"]
     }
   ],
 
@@ -254,31 +238,13 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Python",
-        "R",
-        "SQL",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "C",
-        "C++",
-        "Bash",
-        "LaTeX"
-      ]
+      "keywords": ["Python", "R", "SQL", "JavaScript", "TypeScript", "HTML", "CSS", "C", "C++", "Bash", "LaTeX"]
     },
     {
       "name": "Frameworks & Libraries",
       "level": "",
       "icon": "",
-      "keywords": [
-        "React",
-        "Node.js",
-        "Express",
-        "FastAPI",
-        "scikit-learn"
-      ]
+      "keywords": ["React", "Node.js", "Express", "FastAPI", "scikit-learn"]
     },
     {
       "name": "Tools & Platforms",
