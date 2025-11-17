@@ -21,6 +21,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
+
 I am a graduate student in the `Applied Urban Science and Informatics` program at `New York University`. Before joining NYU, I received my bachelor’s degree in `Japanese Literature` with a minor in `Applied Psychology` from `Nankai University`.
 
 My current work lies at the intersection of `digital civics`, `human–computer–environment interaction`, and `urban simulations`. I study how residents make sense of complex urban changes when information is uneven, and how interactive systems can make civic data more interpretable and negotiable. At NYU, I work on projects that connect `environmental simulations`—such as shadow, transportation, and air-quality models—to community narratives in Manhattan Chinatown. I also conduct `VR-based perceptual experiments` using 360° video, EEG, and EDA measurements to examine how urban greenery shapes stress responses across different contexts.
