@@ -1,23 +1,30 @@
 {
-  "basics": {
-    "name": "Ruolin (Rowling) Wu",
-    "label": "M.S. Student in Applied Urban Science & Informatics",
-    "image": "",
-    "email": "rw3763@nyu.edu",
-    "phone": "(551) 358-6429",
-    "url": "",
-    "summary": "Graduate student and research assistant working on co-designed civics, mixed-methods field studies in public space, and human–computer–environment interaction in urban contexts.",
-    "location": {
-      "address": "370 Jay St",
-      "postalCode": "11201",
-      "city": "Brooklyn",
-      "countryCode": "US",
-      "region": "New York"
+  "education": [
+    {
+      "institution": "New York University",
+      "location": "New York, NY, USA",
+      "url": "",
+      "area": "Applied Urban Science & Informatics",
+      "studyType": "Master of Science",
+      "startDate": "2024-09-01",
+      "endDate": "2026-06-01",
+      "score": "GPA: 3.9/4.0",
+      "courses": ["Digital Civics for Innovation", "Creative Coding", "Applied Data Science", "Machine Learning", "Causal Inference"]
     },
-    "profiles": []
-  },
+    {
+      "institution": "Nankai University",
+      "location": "Tianjin, China",
+      "url": "",
+      "area": "Japanese Literature (Major); Applied Psychology (Minor)",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-01",
+      "score": "GPA: 3.8/4.0",
+      "courses": ["Social Psychology", "Cognitive Psychology", "Big Data Visualization Fundamentals", "Fundamentals of AI"]
+    }
+  ],
 
-  "research": [
+  "research experience": [
     {
       "name": "Planning with Residents: Linking Simulations to Community Narratives",
       "position": "Research Assistant",
@@ -38,7 +45,7 @@
       "position": "Research Assistant",
       "organization": "University of Florida, Urban Tech and Design Lab",
       "location": "Gainesville, FL, USA (remote collaboration)",
-      "startDate": "2025-01-01",
+      "startDate": "2025-02-01",
       "endDate": "",
       "supervisors": ["Prof. Zhaoxi Zhang"],
       "summary": "Exploring multi-user and multi-agent collaboration in urban co-design platforms and K–12 school selection advisory tools.",
@@ -50,7 +57,7 @@
     },
     {
       "name": "Physiological and Psychological Responses to Urban Greenery",
-      "position": "Research Assistant",
+      "position": "",
       "organization": "NYU Center for Urban Science + Progress; University of Florida; Fordham University",
       "location": "New York, NY, USA",
       "startDate": "2025-07-01",
@@ -65,7 +72,7 @@
     },
     {
       "name": "Spatial Analysis for Linguistic Landscape of Tianjin’s Former Concession",
-      "position": "Undergraduate Research Assistant",
+      "position": "",
       "organization": "Nankai University, School of Foreign Studies",
       "location": "Tianjin, China",
       "startDate": "2022-02-01",
@@ -87,7 +94,7 @@
       "location": "New York, NY, USA",
       "startDate": "2025-09-01",
       "endDate": "",
-      "summary": "Teaching assistant for a graduate-level course on digital civics and social innovation."
+      "summary": ""
     },
     {
       "name": "CUSP Graduate Assistant – Operations and Special Projects",
@@ -157,31 +164,20 @@
         "Cleaned and standardized course-participation logs by IT code, built location-aware datasets and city/region dashboards to surface participation patterns, improving data accuracy by 25%."
       ],
       "url": ""
-    }
-  ],
-
-  "education": [
-    {
-      "institution": "New York University",
-      "location": "New York, NY, USA",
-      "url": "",
-      "area": "Applied Urban Science & Informatics",
-      "studyType": "Master of Science",
-      "startDate": "2024-09-01",
-      "endDate": "2026-06-01",
-      "score": "GPA: 3.9/4.0",
-      "courses": ["Digital Civics for Innovation", "Creative Coding", "Applied Data Science", "Machine Learning", "Causal Inference"]
     },
     {
-      "institution": "Nankai University",
+      "name": "IKEA Distribution Center (Tianjin) Co., Ltd",
+      "position": "Culture and People Intern",
       "location": "Tianjin, China",
-      "url": "",
-      "area": "Japanese Literature (Major); Applied Psychology (Minor)",
-      "studyType": "Bachelor of Arts",
-      "startDate": "2020-09-01",
-      "endDate": "2024-06-01",
-      "score": "GPA: 3.8/4.0",
-      "courses": ["Social Psychology", "Cognitive Psychology", "Big Data Visualization Fundamentals", "Fundamentals of AI"]
+      "startDate": "2022-09-01",
+      "endDate": "2023-08-01",
+      "summary": "Intern supporting culture, communications, and cross-department coordination in a global logistics environment.",
+      "highlights": [
+        "Designed internal communication materials including posters, slide templates, and short intranet posts; tailored visual hierarchy for different staff groups to improve the visibility of new strategic initiatives.",
+        "Prepared agendas, background notes, and records of discussion for internal meetings; tracked follow-up actions and issued short progress updates to facilitate coordination across teams.",
+        "Coordinated culture-related activities with logistics, HR, and operations teams as well as colleagues in other countries; incorporated localized feedback into communication materials to reflect workplace context."
+      ],
+      "url": ""
     }
   ],
 
@@ -216,7 +212,7 @@
     }
   ],
 
-  "publications": [
+  "publications & conference": [
     {
       "name": "Physiological and Psychological Response to Context-specific Greenery: An Immersive Experiment Using Virtual Reality and Multimodal Measurement",
       "publisher": "American Association of Geographers (AAG) Annual Meeting",

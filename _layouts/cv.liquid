@@ -105,11 +105,15 @@ layout: default
                   {% include resume/awards.liquid %}
                 {% when 'research' %}
                   {% include resume/research.liquid %}
+                {% when 'research experience' %}
+                  {% include resume/research.liquid %}
                 {% when 'appointments' %}
                   {% include resume/appointments.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
+                  {% include resume/publications.liquid %}
+                {% when 'publications & conference' %}
                   {% include resume/publications.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}

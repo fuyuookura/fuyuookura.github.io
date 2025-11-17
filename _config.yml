@@ -571,18 +571,16 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - research
+  - research experience
   - appointments
   - work
   - education
-  - publications
-  - research
+  - publications & conference
   - projects
   - appointments
   - volunteer
   - awards
   - certificates
-  - skills
   - languages
   - interests
   - references
