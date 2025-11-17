@@ -34,11 +34,11 @@
       "endDate": "",
       "supervisors": ["Prof. Graham Dove"],
       "summary": "Designing civic interfaces that connect environmental simulations of the Manhattan Detention Complex project with residents’ narratives in Chinatown.",
-      "highlights": [
-        "Designed a multilingual platform integrating shadow, transportation, and air-quality simulations to communicate impacts of the proposed Manhattan Detention Complex to local residents.",
-        "Embedded a context-aware multilingual voice agent that guides residents through scenario explanations, elicits grounded feedback, and stores structured records for planner review.",
-        "Conducting co-design workshops and preparing semantic analyses of participant interviews to examine civic sensemaking and engagement processes."
-      ]
+      // "highlights": [
+      //   "Designed a multilingual platform integrating shadow, transportation, and air-quality simulations to communicate impacts of the proposed Manhattan Detention Complex to local residents.",
+      //   "Embedded a context-aware multilingual voice agent that guides residents through scenario explanations, elicits grounded feedback, and stores structured records for planner review.",
+      //   "Conducting co-design workshops and preparing semantic analyses of participant interviews to examine civic sensemaking and engagement processes."
+      // ]
     },
     {
       "name": "Human-AI Co-Design for Urban and Educational Systems",
@@ -49,26 +49,26 @@
       "endDate": "",
       "supervisors": ["Prof. Zhaoxi Zhang"],
       "summary": "Exploring multi-user and multi-agent collaboration in urban co-design platforms and K–12 school selection advisory tools.",
-      "highlights": [
-        "Developed an AI-mediated participatory platform enabling multi-user dialogue and iterative visual revisions to explore collective urban design alternatives.",
-        "Constructed spatial data pipelines and an interactive advisory interface that integrates a RAG-based agent for transparent, constraint-aware school selection recommendations.",
-        "Investigating how participants collaborate with agents in civic co-design and school advisory settings by analyzing dialogue traces and revision histories to understand sensemaking, trust, and decision support."
-      ]
+      // "highlights": [
+      //   "Developed an AI-mediated participatory platform enabling multi-user dialogue and iterative visual revisions to explore collective urban design alternatives.",
+      //   "Constructed spatial data pipelines and an interactive advisory interface that integrates a RAG-based agent for transparent, constraint-aware school selection recommendations.",
+      //   "Investigating how participants collaborate with agents in civic co-design and school advisory settings by analyzing dialogue traces and revision histories to understand sensemaking, trust, and decision support."
+      // ]
     },
     {
       "name": "Physiological and Psychological Responses to Urban Greenery",
       "position": "",
-      "organization": "NYU Center for Urban Science + Progress; University of Florida; Fordham University",
+      "organization": "NYU, Center for Urban Science + Progress, Global Public Health; University of Florida; Fordham University",
       "location": "New York, NY, USA",
       "startDate": "2025-07-01",
       "endDate": "",
       "supervisors": ["Prof. Anton Rozhkov", "Prof. Prince Amegbor", "Prof. Zhaoxi Zhang", "Prof. H. Shellae Versey"],
       "summary": "An immersive experiment using virtual reality and multimodal measurement to study context-specific greenery and its effects on human physiology and psychology.",
-      "highlights": [
-        "Developed a controlled framework combining immersive virtual reality with multimodal biosensing (EEG, EDA) to investigate human responses to urban greenery exposure.",
-        "Captured panoramic videos across New York City sites and quantified greenery levels using Green View Index, employing AI-assisted visual control to isolate greenery effects across urban contexts.",
-        "Launching controlled VR lab sessions (target n≈80), finalizing standardized GVI-tiered protocols and stimuli sets, and conducting initial analyses to inform health-oriented streetscape design."
-      ]
+      // "highlights": [
+      //   "Developed a controlled framework combining immersive virtual reality with multimodal biosensing (EEG, EDA) to investigate human responses to urban greenery exposure.",
+      //   "Captured panoramic videos across New York City sites and quantified greenery levels using Green View Index, employing AI-assisted visual control to isolate greenery effects across urban contexts.",
+      //   "Launching controlled VR lab sessions (target n≈80), finalizing standardized GVI-tiered protocols and stimuli sets, and conducting initial analyses to inform health-oriented streetscape design."
+      // ]
     },
     {
       "name": "Spatial Analysis for Linguistic Landscape of Tianjin’s Former Concession",
@@ -79,10 +79,10 @@
       "endDate": "2024-06-01",
       "supervisors": ["Prof. Zeyu Li"],
       "summary": "A spatial and qualitative study on how linguistic landscape changes in Tianjin’s former concession districts relate to residents’ cultural identity.",
-      "highlights": [
-        "Digitized 278 Wudadao linguistic signs, coded type, language, and orientation, and built heat layers for per-language and per-period distributions and cross-site densities.",
-        "Designed and analyzed surveys and 16 semi-structured interviews to understand how changes in linguistic landscape shape residents’ cultural identity."
-      ]
+      // "highlights": [
+      //   "Digitized 278 Wudadao linguistic signs, coded type, language, and orientation, and built heat layers for per-language and per-period distributions and cross-site densities.",
+      //   "Designed and analyzed surveys and 16 semi-structured interviews to understand how changes in linguistic landscape shape residents’ cultural identity."
+      // ]
     }
   ],
 
@@ -116,10 +116,10 @@
       "startDate": "2025-08-01",
       "endDate": "2025-08-31",
       "summary": "An intensive field school and collaborative research program on climate adaptation, tourism, and urban risk.",
-      "highlights": [
-        "Conducted field and computational analyses on climate adaptation, tourism, and urban risk using Bayesian, hierarchical, time-series, and spatiotemporal analytics for planning.",
-        "Co-developed with a UFSC Bioinformatics Lab student a retrieval-augmented chatbot explaining epitope site definitions for public-facing science communication."
-      ],
+      // "highlights": [
+      //   "Conducted field and computational analyses on climate adaptation, tourism, and urban risk using Bayesian, hierarchical, time-series, and spatiotemporal analytics for planning.",
+      //   "Co-developed with a UFSC Bioinformatics Lab student a retrieval-augmented chatbot explaining epitope site definitions for public-facing science communication."
+      // ],
       "url": ""
     },
     {
@@ -130,10 +130,10 @@
       "startDate": "2024-10-01",
       "endDate": "2024-10-31",
       "summary": "First Prize-winning project in the NYU CUSP Data Dive focused on the Community Land Trust State Law Database.",
-      "highlights": [
-        "Built a citation-grounded legal NLP chatbot for the Community Land Trust State Law Database using a fine-tuned LLM to surface statute excerpts, definitions, and cross-references while preserving jurisdiction and topic context.",
-        "Delivered a public-facing interface that combines map-based browsing with keyword search, filters by state, topic, and year, and exports citations for policymakers comparing state CLT provisions."
-      ],
+      // "highlights": [
+      //   "Built a citation-grounded legal NLP chatbot for the Community Land Trust State Law Database using a fine-tuned LLM to surface statute excerpts, definitions, and cross-references while preserving jurisdiction and topic context.",
+      //   "Delivered a public-facing interface that combines map-based browsing with keyword search, filters by state, topic, and year, and exports citations for policymakers comparing state CLT provisions."
+      // ],
       "url": ""
     }
   ],
@@ -146,10 +146,10 @@
       "startDate": "2024-06-01",
       "endDate": "2024-08-01",
       "summary": "Summer intern in the information department focusing on UI/UX design and human–machine interaction research in manufacturing.",
-      "highlights": [
-        "Built an owner community module in the companion app; launched regional and interest groups, structured post/reply flows and event sign-ups, and refined notifications to drive participation and peer support.",
-        "Evaluated LLM assistants’ impact on manufacturing by mapping information flows, simulating SOP retrieval, and drafting deployment, escalation, and data-governance guidelines for shop-floor adoption."
-      ],
+      // "highlights": [
+      //   "Built an owner community module in the companion app; launched regional and interest groups, structured post/reply flows and event sign-ups, and refined notifications to drive participation and peer support.",
+      //   "Evaluated LLM assistants’ impact on manufacturing by mapping information flows, simulating SOP retrieval, and drafting deployment, escalation, and data-governance guidelines for shop-floor adoption."
+      // ],
       "url": ""
     },
     {
@@ -159,10 +159,10 @@
       "startDate": "2023-09-01",
       "endDate": "2024-04-01",
       "summary": "Intern in Lenovo’s Global Cultural Engagement Program, working on internal communications and data-informed engagement.",
-      "highlights": [
-        "Designed multilingual promotional layouts and event pages, streamlined event funnels, and ran quick comprehension checks to refine information hierarchy, resulting in around 35% higher engagement.",
-        "Cleaned and standardized course-participation logs by IT code, built location-aware datasets and city/region dashboards to surface participation patterns, improving data accuracy by 25%."
-      ],
+      // "highlights": [
+      //   "Designed multilingual promotional layouts and event pages, streamlined event funnels, and ran quick comprehension checks to refine information hierarchy, resulting in around 35% higher engagement.",
+      //   "Cleaned and standardized course-participation logs by IT code, built location-aware datasets and city/region dashboards to surface participation patterns, improving data accuracy by 25%."
+      // ],
       "url": ""
     },
     {
@@ -172,11 +172,11 @@
       "startDate": "2022-09-01",
       "endDate": "2023-08-01",
       "summary": "Intern supporting culture, communications, and cross-department coordination in a global logistics environment.",
-      "highlights": [
-        "Designed internal communication materials including posters, slide templates, and short intranet posts; tailored visual hierarchy for different staff groups to improve the visibility of new strategic initiatives.",
-        "Prepared agendas, background notes, and records of discussion for internal meetings; tracked follow-up actions and issued short progress updates to facilitate coordination across teams.",
-        "Coordinated culture-related activities with logistics, HR, and operations teams as well as colleagues in other countries; incorporated localized feedback into communication materials to reflect workplace context."
-      ],
+      // "highlights": [
+      //   "Designed internal communication materials including posters, slide templates, and short intranet posts; tailored visual hierarchy for different staff groups to improve the visibility of new strategic initiatives.",
+      //   "Prepared agendas, background notes, and records of discussion for internal meetings; tracked follow-up actions and issued short progress updates to facilitate coordination across teams.",
+      //   "Coordinated culture-related activities with logistics, HR, and operations teams as well as colleagues in other countries; incorporated localized feedback into communication materials to reflect workplace context."
+      // ],
       "url": ""
     }
   ],
@@ -276,23 +276,5 @@
       "fluency": "Fluent (JLPT N1)",
       "icon": ""
     }
-  ],
-
-  "interests": [
-    {
-      "name": "Research Interests",
-      "icon": "",
-      "keywords": [
-        "Co-designed civics",
-        "Mixed-methods field studies in public space",
-        "Human–computer–environment interaction in urban contexts",
-        "Urban simulations and civic engagement",
-        "Human–AI collaboration for planning and education"
-      ]
-    }
-  ],
-
-  "volunteer": [],
-  "certificates": [],
-  "references": []
+  ]
 }
