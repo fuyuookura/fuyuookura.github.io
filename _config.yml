@@ -574,7 +574,9 @@ jsonresume:
   - work
   - education
   - publications
+  - research
   - projects
+  - appointments
   - volunteer
   - awards
   - certificates
