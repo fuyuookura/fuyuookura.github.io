@@ -576,8 +576,26 @@ footer.sticky-bottom {
       .badge {
         color: var(--global-card-bg-color) !important;
         background-color: var(--global-theme-color) !important;
+        font-weight: $font-weight-medium;
       }
     }
+  }
+
+  .card-title {
+    font-weight: $font-weight-extra-bold;
+  }
+
+  .title,
+  h4,
+  h5,
+  h6 {
+    font-weight: $font-weight-medium;
+  }
+
+  .font-weight-bold,
+  b,
+  strong {
+    font-weight: $font-weight-medium;
   }
 }
 
@@ -1456,3 +1474,4 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
