@@ -21,9 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
+I am a graduate student in the `Applied Urban Science and Informatics` program at `New York University`. Before joining NYU, I received my bachelor’s degree in `Japanese Literature` with a minor in `Applied Psychology` from `Nankai University`.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My current work lies at the intersection of `digital civics`, `human–computer–environment interaction`, and `urban simulations`. I study how residents make sense of complex urban changes when information is uneven, and how interactive systems can make civic data more interpretable and negotiable. At NYU, I work on projects that connect `environmental simulations`—such as shadow, transportation, and air-quality models—to community narratives in Manhattan Chinatown. I also conduct `VR-based perceptual experiments` using 360° video, EEG, and EDA measurements to examine how urban greenery shapes stress responses across different contexts.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I have gained experience in industry through roles at `Ford`, `Lenovo`, and `IKEA`, working on user-facing interfaces, internal communication, and data-driven operational tools. These applied experiences inform how I design technologies that must function across real organizational, cultural, and community settings.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work, I like bouldering, swimming, and spending too much time in the kitchen. If you meet me in person, there is a good chance I’ll try to cook you something unnecessarily complicated from Chinese home cooking.

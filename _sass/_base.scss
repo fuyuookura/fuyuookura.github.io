@@ -19,6 +19,21 @@ strong {
   color: var(--global-text-color);
 }
 
+.font-weight-medium {
+  font-weight: $font-weight-medium;
+}
+
+.font-weight-extra-bold {
+  font-weight: $font-weight-extra-bold;
+}
+
+.handwritten-name {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: 400;
+  font-style: normal;
+  display: inline-block;
+}
+
 h1,
 h2,
 h3,
@@ -467,6 +482,18 @@ ul.task-list input[type="checkbox"] {
 
   .contact-note {
     font-size: 0.8rem;
+  }
+}
+
+.cv {
+  .card-title {
+    font-weight: $font-weight-extra-bold;
+  }
+
+  .font-weight-bold,
+  b,
+  strong {
+    font-weight: $font-weight-medium;
   }
 }
 
