@@ -29,6 +29,10 @@ $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
+// Typography weights
+$font-weight-medium: 500 !default;
+$font-weight-extra-bold: 800 !default;
+
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 

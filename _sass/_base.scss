@@ -19,6 +19,20 @@ strong {
   color: var(--global-text-color);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: $font-weight-extra-bold;
+}
+
+strong,
+b {
+  font-weight: $font-weight-extra-bold;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -31,7 +45,7 @@ table {
   }
 
   th {
-    font-weight: bold;
+    font-weight: $font-weight-extra-bold;
   }
 }
 
@@ -308,7 +322,7 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
-    font-weight: bolder;
+    font-weight: $font-weight-extra-bold;
     color: var(--global-theme-color);
 
     &:hover {
@@ -778,7 +792,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: $font-weight-extra-bold;
       }
 
       .author {

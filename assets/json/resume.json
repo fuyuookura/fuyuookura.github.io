@@ -1,200 +1,336 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ruolin (Rowling) Wu",
+    "label": "M.S. Student in Applied Urban Science & Informatics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rw3763@nyu.edu",
+    "phone": "(551) 358-6429",
+    "url": "",
+    "summary": "Graduate student and research assistant working on co-designed civics, mixed-methods field studies in public space, and human–computer–environment interaction in urban contexts.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "370 Jay St",
+      "postalCode": "11201",
+      "city": "Brooklyn",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
-  "work": [
+
+  "research": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Planning with Residents: Linking Simulations to Community Narratives",
+      "position": "Research Assistant",
+      "organization": "NYU, People+Technology Lab",
+      "location": "New York, NY, USA",
+      "startDate": "2025-06-01",
+      "endDate": "",
+      "supervisors": ["Prof. Graham Dove"],
+      "summary": "Designing civic interfaces that connect environmental simulations of the Manhattan Detention Complex project with residents’ narratives in Chinatown.",
+      "highlights": [
+        "Designed a multilingual platform integrating shadow, transportation, and air-quality simulations to communicate impacts of the proposed Manhattan Detention Complex to local residents.",
+        "Embedded a context-aware multilingual voice agent that guides residents through scenario explanations, elicits grounded feedback, and stores structured records for planner review.",
+        "Conducting co-design workshops and preparing semantic analyses of participant interviews to examine civic sensemaking and engagement processes."
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Human-AI Co-Design for Urban and Educational Systems",
+      "position": "Research Assistant",
+      "organization": "University of Florida, Urban Tech and Design Lab",
+      "location": "Gainesville, FL, USA (remote collaboration)",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "supervisors": ["Prof. Zhaoxi Zhang"],
+      "summary": "Exploring multi-user and multi-agent collaboration in urban co-design platforms and K–12 school selection advisory tools.",
+      "highlights": [
+        "Developed an AI-mediated participatory platform enabling multi-user dialogue and iterative visual revisions to explore collective urban design alternatives.",
+        "Constructed spatial data pipelines and an interactive advisory interface that integrates a RAG-based agent for transparent, constraint-aware school selection recommendations.",
+        "Investigating how participants collaborate with agents in civic co-design and school advisory settings by analyzing dialogue traces and revision histories to understand sensemaking, trust, and decision support."
+      ]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Physiological and Psychological Responses to Urban Greenery",
+      "position": "Research Assistant",
+      "organization": "NYU Center for Urban Science + Progress; University of Florida; Fordham University",
+      "location": "New York, NY, USA",
+      "startDate": "2025-07-01",
+      "endDate": "",
+      "supervisors": [
+        "Prof. Anton Rozhkov",
+        "Prof. Prince Amegbor",
+        "Prof. Zhaoxi Zhang",
+        "Prof. H. Shellae Versey"
+      ],
+      "summary": "An immersive experiment using virtual reality and multimodal measurement to study context-specific greenery and its effects on human physiology and psychology.",
+      "highlights": [
+        "Developed a controlled framework combining immersive virtual reality with multimodal biosensing (EEG, EDA) to investigate human responses to urban greenery exposure.",
+        "Captured panoramic videos across New York City sites and quantified greenery levels using Green View Index, employing AI-assisted visual control to isolate greenery effects across urban contexts.",
+        "Launching controlled VR lab sessions (target n≈80), finalizing standardized GVI-tiered protocols and stimuli sets, and conducting initial analyses to inform health-oriented streetscape design."
+      ]
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "Spatial Analysis for Linguistic Landscape of Tianjin’s Former Concession",
+      "position": "Undergraduate Research Assistant",
+      "organization": "Nankai University, School of Foreign Studies",
+      "location": "Tianjin, China",
+      "startDate": "2022-02-01",
+      "endDate": "2024-06-01",
+      "supervisors": ["Prof. Zeyu Li"],
+      "summary": "A spatial and qualitative study on how linguistic landscape changes in Tianjin’s former concession districts relate to residents’ cultural identity.",
+      "highlights": [
+        "Digitized 278 Wudadao linguistic signs, coded type, language, and orientation, and built heat layers for per-language and per-period distributions and cross-site densities.",
+        "Designed and analyzed surveys and 16 semi-structured interviews to understand how changes in linguistic landscape shape residents’ cultural identity."
       ]
     }
   ],
+
+  "appointments": [
+    {
+      "name": "Teaching Assistant",
+      "position": "CUSP GX 8823 / MG-GY 8823 – Digital Civics for Social Innovation",
+      "organization": "Department of Technology Management and Innovation, Center for Urban Science and Progress, New York University",
+      "location": "New York, NY, USA",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "summary": "Teaching assistant for a graduate-level course on digital civics and social innovation."
+    },
+    {
+      "name": "CUSP Graduate Assistant – Operations and Special Projects",
+      "position": "Graduate Assistant",
+      "organization": "Center for Urban Science and Progress, New York University",
+      "location": "New York, NY, USA",
+      "startDate": "2025-04-01",
+      "endDate": "",
+      "summary": "Graduate assistant supporting operations and special projects at CUSP, including events, student services, and internal reporting."
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "International School: Data Science for Sustainable Cities",
+      "category": "Field Research",
+      "location": "Montevideo, Uruguay",
+      "organization": "UTEC Universidad Tecnológica; Università degli Studi della Tuscia; NYU CUSP; Universidad Externado de Colombia",
+      "startDate": "2025-08-01",
+      "endDate": "2025-08-31",
+      "summary": "An intensive field school and collaborative research program on climate adaptation, tourism, and urban risk.",
+      "highlights": [
+        "Conducted field and computational analyses on climate adaptation, tourism, and urban risk using Bayesian, hierarchical, time-series, and spatiotemporal analytics for planning.",
+        "Co-developed with a UFSC Bioinformatics Lab student a retrieval-augmented chatbot explaining epitope site definitions for public-facing science communication."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Data Dive Competition: Open Space in New York City – First Prize Winner",
+      "category": "Competition",
+      "location": "New York, NY, USA",
+      "organization": "NYU CUSP; International Center for Community Land Trusts",
+      "startDate": "2024-10-01",
+      "endDate": "2024-10-31",
+      "summary": "First Prize-winning project in the NYU CUSP Data Dive focused on the Community Land Trust State Law Database.",
+      "highlights": [
+        "Built a citation-grounded legal NLP chatbot for the Community Land Trust State Law Database using a fine-tuned LLM to surface statute excerpts, definitions, and cross-references while preserving jurisdiction and topic context.",
+        "Delivered a public-facing interface that combines map-based browsing with keyword search, filters by state, topic, and year, and exports citations for policymakers comparing state CLT provisions."
+      ],
+      "url": ""
+    }
+  ],
+
+  "work": [
+    {
+      "name": "Ford & JMC Motor Co.",
+      "position": "Summer Intern at Information Department",
+      "location": "Nanchang, China",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "summary": "Summer intern in the information department focusing on UI/UX design and human–machine interaction research in manufacturing.",
+      "highlights": [
+        "Built an owner community module in the companion app; launched regional and interest groups, structured post/reply flows and event sign-ups, and refined notifications to drive participation and peer support.",
+        "Evaluated LLM assistants’ impact on manufacturing by mapping information flows, simulating SOP retrieval, and drafting deployment, escalation, and data-governance guidelines for shop-floor adoption."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Lenovo Group Limited",
+      "position": "Global Cultural Engagement Program Intern",
+      "location": "Beijing, China",
+      "startDate": "2023-09-01",
+      "endDate": "2024-04-01",
+      "summary": "Intern in Lenovo’s Global Cultural Engagement Program, working on internal communications and data-informed engagement.",
+      "highlights": [
+        "Designed multilingual promotional layouts and event pages, streamlined event funnels, and ran quick comprehension checks to refine information hierarchy, resulting in around 35% higher engagement.",
+        "Cleaned and standardized course-participation logs by IT code, built location-aware datasets and city/region dashboards to surface participation patterns, improving data accuracy by 25%."
+      ],
+      "url": ""
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "New York University",
+      "location": "New York, NY, USA",
+      "url": "",
+      "area": "Applied Urban Science & Informatics",
+      "studyType": "Master of Science",
+      "startDate": "2024-09-01",
+      "endDate": "2026-06-01",
+      "score": "GPA: 3.9/4.0",
+      "courses": [
+        "Digital Civics for Innovation",
+        "Creative Coding",
+        "Applied Data Science",
+        "Machine Learning",
+        "Causal Inference"
+      ]
+    },
+    {
+      "institution": "Nankai University",
+      "location": "Tianjin, China",
+      "url": "",
+      "area": "Japanese Literature (Major); Applied Psychology (Minor)",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-01",
+      "score": "GPA: 3.8/4.0",
+      "courses": [
+        "Social Psychology",
+        "Cognitive Psychology",
+        "Big Data Visualization Fundamentals",
+        "Fundamentals of AI"
+      ]
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "NYU Scholars Scholarship",
+      "date": "2025-01-01",
+      "awarder": "New York University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "First Prize – NYU CUSP Data Dive: Open Space in New York City",
+      "date": "2024-10-01",
+      "awarder": "NYU Center for Urban Science and Progress",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "NYU Rising Scholars Scholarship",
+      "date": "2024-09-01",
+      "awarder": "New York University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Nankai University NITORI International Scholarship",
+      "date": "2023-05-01",
+      "awarder": "Nankai University",
+      "url": "",
+      "summary": ""
+    }
+  ],
+
+  "publications": [
+    {
+      "name": "Physiological and Psychological Response to Context-specific Greenery: An Immersive Experiment Using Virtual Reality and Multimodal Measurement",
+      "publisher": "American Association of Geographers (AAG) Annual Meeting",
+      "releaseDate": "2026-01-01",
+      "url": "",
+      "summary": "Conference abstract presenting an immersive VR and multimodal biosensing study of context-specific greenery in New York City."
+    },
+    {
+      "name": "A Multi-User and Multi-Agent Approach to Community Engagement",
+      "publisher": "American Association of Geographers (AAG) Annual Meeting",
+      "releaseDate": "2026-01-01",
+      "url": "",
+      "summary": "Conference abstract on multi-user and multi-agent approaches to community engagement using interactive platforms."
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Python",
+        "R",
+        "SQL",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "C",
+        "C++",
+        "Bash",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Express",
+        "FastAPI",
+        "scikit-learn"
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Figma",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Premiere Pro",
+        "Adobe After Effects",
+        "Tableau",
+        "Git",
+        "ArcGIS"
+      ]
+    }
+  ],
+
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Chinese",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Fluent (JLPT N1)",
+      "icon": ""
     }
   ],
+
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research Interests",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Co-designed civics",
+        "Mixed-methods field studies in public space",
+        "Human–computer–environment interaction in urban contexts",
+        "Urban simulations and civic engagement",
+        "Human–AI collaboration for planning and education"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+
+  "volunteer": [],
+  "certificates": [],
+  "references": []
 }
