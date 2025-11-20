@@ -21,7 +21,9 @@ related_publications: true
 <style>
   .embed-container {
     position: relative;
-    width: 100%;
+  width: 150%;
+  max-width: none;
+  margin-left: -25%;
     min-height: 75vh;
     border: 1px solid var(--global-divider-color);
     border-radius: 12px;
