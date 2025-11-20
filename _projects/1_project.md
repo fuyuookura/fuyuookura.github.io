@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: IKEA experience embed
+title: IKEA experience
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 <div class="embed-container">
