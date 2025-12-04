@@ -4,13 +4,13 @@ title: IKEA experience
 description: 
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Professional Experience
 related_publications: false
 ---
 
 <div class="embed-container">
   <iframe
-    src="https://020814.cargo.site/ikea"
+    src="https://020814.cargo.site/ikea-1"
     title="IKEA Experience"
     frameborder="0"
     loading="lazy"
