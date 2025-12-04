@@ -1,10 +1,10 @@
 ---
 layout: page
-title: IKEA experience
-description: 
+title: IKEA
+description: Intern at People & Culture Department
 img: assets/img/12.jpg
-importance: 1
-category: Professional Experience
+importance: 3
+category: Experience
 related_publications: false
 ---
 
