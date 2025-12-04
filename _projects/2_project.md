@@ -4,7 +4,7 @@ title: Lenovo
 description: Intern at Global Cultural Engagement Program
 img: assets/img/12.jpg
 importance: 2
-category: Professional Experience
+category: Experience
 related_publications: false
 ---
 

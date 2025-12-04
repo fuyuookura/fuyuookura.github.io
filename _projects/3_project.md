@@ -4,7 +4,7 @@ title: Ford
 description: 
 img: assets/img/12.jpg
 importance: 1
-category: Professional Experience
+category: Experience
 related_publications: false
 ---
 
