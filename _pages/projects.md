@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your experiences.
 nav: true
 nav_order: 3
-display_categories: [Research, Professional Experience]
+display_categories: [Research, Experience]
 horizontal: false
 ---
 
