@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ford
-description: 
+description: Summer Intern at Information Department
 img: assets/img/12.jpg
 importance: 1
 category: Experience

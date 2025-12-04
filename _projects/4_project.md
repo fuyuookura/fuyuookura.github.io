@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ford
-description: 
+title: International School:Data Science for Sustainable Cities
+description: Montevideo, Uruguay — Field Research & Cross-Cultural Urban Analytics
 img: assets/img/12.jpg
 importance: 1
 category: Experience
@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="embed-container">
   <iframe
-    src="https://020814.cargo.site/ford"
+    src="https://020814.cargo.site/international-school"
     title="IKEA Experience"
     frameborder="0"
     loading="lazy"
