@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-experience",
-          title: "experience",
-          description: "A growing collection of your experiences.",
+  },{id: "nav-",
+          title: "",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -46,12 +46,12 @@ ninja.data = [{
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-ford",
           title: 'Ford',
-          description: "",
+          description: "Summer Intern at Information Department",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-ford",
-          title: 'Ford',
-          description: "",
+            },},{id: "projects-international-school-data-science-for-sustainable-cities",
+          title: 'International School:Data Science for Sustainable Cities',
+          description: "Montevideo, Uruguay — Field Research &amp; Cross-Cultural Urban Analytics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{id: "projects-ford",
