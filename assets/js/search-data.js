@@ -34,19 +34,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ikea-experience",
-          title: 'IKEA experience',
-          description: "",
+          section: "News",},{id: "projects-ikea",
+          title: 'IKEA',
+          description: "Intern at People &amp; Culture Department",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-lenovo",
           title: 'Lenovo',
-          description: "",
+          description: "Intern at Global Cultural Engagement Program",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-ford",
+          title: 'Ford',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{id: "projects-project-4",
