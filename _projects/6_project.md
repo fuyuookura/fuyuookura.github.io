@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Ford
-description: 
-img: assets/img/12.jpg
+title: Planning with Residents
+description: Linking Simulations to Community Narratives
+img: assets/img/Chinatown.jpg
 importance: 1
-category: Experience
+category: Research
 related_publications: false
 ---
 
 <div class="embed-container">
   <iframe
-    src="https://020814.cargo.site/ford"
+    src="https://020814.cargo.site/chinatown"
     title="IKEA Experience"
     frameborder="0"
     loading="lazy"

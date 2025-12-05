@@ -2,8 +2,8 @@
 layout: page
 title: IKEA
 description: Intern at People & Culture Department
-img: assets/img/IKEA.png
-importance: 3
+img: assets/img/IKEA.jpg
+importance: 4
 category: Experience
 related_publications: false
 ---

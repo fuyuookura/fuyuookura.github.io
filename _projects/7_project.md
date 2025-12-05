@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Ford
-description: 
-img: assets/img/12.jpg
-importance: 1
-category: Experience
+title: Physiological and Psychological Responses to Urban Greenery
+description: Immersive Experiment Using Virtual Reality and Multimodal Measurement
+img: assets/img/EEG.jpg
+importance: 2
+category: Research
 related_publications: false
 ---
 
 <div class="embed-container">
   <iframe
-    src="https://020814.cargo.site/ford"
+    src="https://020814.cargo.site/vr"
     title="IKEA Experience"
     frameborder="0"
     loading="lazy"

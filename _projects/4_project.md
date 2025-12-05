@@ -2,7 +2,7 @@
 layout: page
 title: International School:Data Science for Sustainable Cities
 description: Montevideo, Uruguay — Field Research & Cross-Cultural Urban Analytics
-img: assets/img/12.jpg
+img: assets/img/URUGUAY.jpg
 importance: 1
 category: Experience
 related_publications: false

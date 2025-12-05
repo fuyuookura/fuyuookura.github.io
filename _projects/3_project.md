@@ -2,8 +2,8 @@
 layout: page
 title: Ford
 description: Summer Intern at Information Department
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/FORD.jpg
+importance: 2
 category: Experience
 related_publications: false
 ---

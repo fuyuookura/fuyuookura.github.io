@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Ford
-description: 
-img: assets/img/12.jpg
-importance: 1
-category: Experience
+title: Human–AI Co-Design for Urban and Educational Systems
+description: Multi-Agent Participatory Platforms for Planning and School Choice
+img: assets/img/Design.jpg
+importance: 3
+category: Research
 related_publications: false
 ---
 
 <div class="embed-container">
   <iframe
-    src="https://020814.cargo.site/ford"
+    src="https://020814.cargo.site/ai-interface"
     title="IKEA Experience"
     frameborder="0"
     loading="lazy"
