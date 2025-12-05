@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://aag-meetings.secure-platform.com/aag2026/gallery/rounds/149/details/94810">Physiological and Psychological Responses to Urban Greenery: Immersive Experiment Using Virtual Reality and Multimodal Measurement</a> — abstract accepted for presentation at AAG 2026.
+<a href="https://rolwu.me/projects/vr.html">Physiological and Psychological Responses to Urban Greenery: Immersive Experiment Using Virtual Reality and Multimodal Measurement</a> — abstract accepted for presentation at AAG 2026.
 

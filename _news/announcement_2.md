@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://aag-meetings.secure-platform.com/aag2026/gallery/rounds/149/details/92225">A Multi-User and Multi-Agent Approach to Community Engagement</a> — abstract accepted for presentation at AAG 2026.
+<a href="https://rolwu.me/projects/collectivedesign.html">A Multi-User and Multi-Agent Approach to Community Engagement</a> — abstract accepted for presentation at AAG 2026.
 
