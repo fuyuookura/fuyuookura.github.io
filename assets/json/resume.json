@@ -34,7 +34,7 @@
       "endDate": "",
       "supervisors": ["Prof. Graham Dove"],
       "summary": "Designing civic interfaces that connect environmental simulations of the Manhattan Detention Complex project with residents' narratives in Chinatown.",
-      "url": ""
+      "url": "https://rolwu.me/projects/chinatown.html"
     },
     {
       "name": "Human-AI Co-Design for Urban and Educational Systems",
@@ -45,7 +45,7 @@
       "endDate": "",
       "supervisors": ["Prof. Zhaoxi Zhang"],
       "summary": "Exploring multi-user and multi-agent collaboration in urban co-design platforms and K–12 school selection advisory tools.",
-      "url": ""
+      "url": "https://rolwu.me/projects/collectivedesign.html"
     },
     {
       "name": "Physiological and Psychological Responses to Urban Greenery",
@@ -55,7 +55,7 @@
       "endDate": "",
       "supervisors": ["Prof. Anton Rozhkov", "Prof. Prince Amegbor", "Prof. Zhaoxi Zhang", "Prof. H. Shellae Versey"],
       "summary": "An immersive experiment using virtual reality and multimodal measurement to study context-specific greenery and its effects on human physiology and psychology.",
-      "url": ""
+      "url": "https://rolwu.me/projects/vr.html"
     },
     {
       "name": "Spatial Analysis for Linguistic Landscape of Tianjin’s Former Concession",
@@ -98,7 +98,7 @@
       "startDate": "2025-08-01",
       "endDate": "2025-08-31",
       "summary": "An intensive field school and collaborative research program on climate adaptation, tourism, and urban risk.",
-      "url": "https://engineering.nyu.edu/news/norcia-montevideo-cusp-fosters-global-collaboration-urban-technology"
+      "url": "https://rolwu.me/projects/uruguay.html"
     },
     {
       "name": "Data Dive Competition: Open Space in New York City – First Prize Winner",
@@ -120,7 +120,7 @@
       "startDate": "2024-06-01",
       "endDate": "2024-08-01",
       "summary": "Summer intern in the information department focusing on UI/UX design and human–machine interaction research in manufacturing.",
-      "url": ""
+      "url": "https://rolwu.me/projects/ford.html"
     },
     {
       "name": "Lenovo Group Limited",
@@ -129,7 +129,7 @@
       "startDate": "2023-09-01",
       "endDate": "2024-04-01",
       "summary": "Intern in Lenovo's Global Cultural Engagement Program, working on internal communications and data-informed engagement.",
-      "url": ""
+      "url": "https://rolwu.me/projects/lenovo.html"
     },
     {
       "name": "IKEA Distribution Center (Tianjin) Co., Ltd",
@@ -138,7 +138,7 @@
       "startDate": "2022-09-01",
       "endDate": "2023-08-01",
       "summary": "Intern supporting culture, communications, and cross-department coordination in a global logistics environment.",
-      "url": ""
+      "url": "https://rolwu.me/projects/ikea.html"
     }
   ],
 
