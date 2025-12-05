@@ -23,52 +23,50 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-physiological-and-psychological-responses-to-urban-greenery-immersive-experiment-using-virtual-reality-and-multimodal-measurement-abstract-accepted-for-presentation-at-aag-2026",
+          title: 'Physiological and Psychological Responses to Urban Greenery: Immersive Experiment Using Virtual Reality and...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-a-multi-user-and-multi-agent-approach-to-community-engagement-abstract-accepted-for-presentation-at-aag-2026",
+          title: 'A Multi-User and Multi-Agent Approach to Community Engagement — abstract accepted for presentation...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-vr-experiment-has-gained-irb-approval-click-here-for-more-information-and-to-participate",
+          title: 'Our VR Experiment has gained IRB approval! Click here for more information and...',
           description: "",
-          section: "News",},{id: "projects-ikea",
-          title: 'IKEA',
-          description: "Intern at People &amp; Culture Department",
+          section: "News",},{id: "projects-urban-narratives",
+          title: 'Urban Narratives',
+          description: "Planning with Residents - Linking Simulations to Community Narratives",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-lenovo",
-          title: 'Lenovo',
-          description: "Intern at Global Cultural Engagement Program",
+              window.location.href = "/projects/chinatown.html";
+            },},{id: "projects-ai-co-design",
+          title: 'AI Co-Design',
+          description: "Multi-Agent Participatory Platforms for Planning and School Choice",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
+              window.location.href = "/projects/collectivedesign.html";
             },},{id: "projects-ford",
           title: 'Ford',
           description: "Summer Intern at Information Department",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-international-school-data-science-for-sustainable-cities",
-          title: 'International School:Data Science for Sustainable Cities',
-          description: "Montevideo, Uruguay — Field Research &amp; Cross-Cultural Urban Analytics",
+              window.location.href = "/projects/ford.html";
+            },},{id: "projects-ikea",
+          title: 'IKEA',
+          description: "Intern at People &amp; Culture Department",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
-            },},{id: "projects-human-ai-co-design-for-urban-and-educational-systems",
-          title: 'Human–AI Co-Design for Urban and Educational Systems',
-          description: "Multi-Agent Participatory Platforms for Planning and School Choice",
+              window.location.href = "/projects/ikea.html";
+            },},{id: "projects-lenovo",
+          title: 'Lenovo',
+          description: "Intern at Global Cultural Engagement Program",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-planning-with-residents",
-          title: 'Planning with Residents',
-          description: "Linking Simulations to Community Narratives",
+              window.location.href = "/projects/lenovo.html";
+            },},{id: "projects-global-analytics",
+          title: 'Global Analytics',
+          description: "Data Science for Sustainable Cities, Field Research &amp; Cross-Cultural Urban Analytics",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
-            },},{id: "projects-physiological-and-psychological-responses-to-urban-greenery",
-          title: 'Physiological and Psychological Responses to Urban Greenery',
+              window.location.href = "/projects/uruguay.html";
+            },},{id: "projects-urban-sensing",
+          title: 'Urban Sensing',
           description: "Immersive Experiment Using Virtual Reality and Multimodal Measurement",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
+              window.location.href = "/projects/vr.html";
             },},{
         id: 'social-email',
         title: 'email',
