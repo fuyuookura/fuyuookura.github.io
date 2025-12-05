@@ -1,16 +1,16 @@
 ---
 layout: page
-title: International School:Data Science for Sustainable Cities
-description: Montevideo, Uruguay — Field Research & Cross-Cultural Urban Analytics
-img: assets/img/URUGUAY.jpg
-importance: 1
-category: Experience
+title: Urban Sensing
+description: Immersive Experiment Using Virtual Reality and Multimodal Measurement
+img: assets/img/EEG.jpg
+importance: 2
+category: Research
 related_publications: false
 ---
 
 <div class="embed-container">
   <iframe
-    src="https://020814.cargo.site/international-school"
+    src="https://020814.cargo.site/vr"
     title="IKEA Experience"
     frameborder="0"
     loading="lazy"

@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Human–AI Co-Design for Urban and Educational Systems
-description: Multi-Agent Participatory Platforms for Planning and School Choice
-img: assets/img/Design.jpg
-importance: 3
-category: Research
+title: Global Analytics
+description: Data Science for Sustainable Cities, Field Research & Cross-Cultural Urban Analytics
+img: assets/img/URUGUAY.jpg
+importance: 1
+category: Experience
 related_publications: false
 ---
 
 <div class="embed-container">
   <iframe
-    src="https://020814.cargo.site/ai-interface"
+    src="https://020814.cargo.site/international-school"
     title="IKEA Experience"
     frameborder="0"
     loading="lazy"

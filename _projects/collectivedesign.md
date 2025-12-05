@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Planning with Residents
-description: Linking Simulations to Community Narratives
-img: assets/img/Chinatown.jpg
-importance: 1
+title: AI Co-Design
+description: Multi-Agent Participatory Platforms for Planning and School Choice
+img: assets/img/Design.jpg
+importance: 3
 category: Research
 related_publications: false
 ---
 
 <div class="embed-container">
   <iframe
-    src="https://020814.cargo.site/chinatown"
+    src="https://020814.cargo.site/ai-interface"
     title="IKEA Experience"
     frameborder="0"
     loading="lazy"

@@ -40,9 +40,13 @@
             {% endif %}
           </h6>
           <p class="ml-1 ml-md-4 mb-1">
-            <span class="font-weight-medium">{{ content.position }}</span>
-            {% if content.organization %}
-              · {{ content.organization }}
+            {% if content.position %}
+              <span class="font-weight-medium">{{ content.position }}</span>
+              {% if content.organization %}
+                · {{ content.organization }}
+              {% endif %}
+            {% elsif content.organization %}
+              <span class="font-weight-medium">{{ content.organization }}</span>
             {% endif %}
           </p>
           {% if content.supervisors %}

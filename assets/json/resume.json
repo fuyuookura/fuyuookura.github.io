@@ -3,7 +3,7 @@
     {
       "institution": "New York University",
       "location": "New York, NY, USA",
-      "url": "",
+      "url": "https://engineering.nyu.edu/research/centers/cusp",
       "area": "Applied Urban Science & Informatics",
       "studyType": "Master of Science",
       "startDate": "2024-09-01",
@@ -14,7 +14,7 @@
     {
       "institution": "Nankai University",
       "location": "Tianjin, China",
-      "url": "",
+      "url": "https://en.nankai.edu.cn/",
       "area": "Japanese Literature (Major); Applied Psychology (Minor)",
       "studyType": "Bachelor of Arts",
       "startDate": "2020-09-01",
@@ -33,7 +33,8 @@
       "startDate": "2025-06-01",
       "endDate": "",
       "supervisors": ["Prof. Graham Dove"],
-      "summary": "Designing civic interfaces that connect environmental simulations of the Manhattan Detention Complex project with residents' narratives in Chinatown."
+      "summary": "Designing civic interfaces that connect environmental simulations of the Manhattan Detention Complex project with residents' narratives in Chinatown.",
+      "url": ""
     },
     {
       "name": "Human-AI Co-Design for Urban and Educational Systems",
@@ -43,21 +44,21 @@
       "startDate": "2025-02-01",
       "endDate": "",
       "supervisors": ["Prof. Zhaoxi Zhang"],
-      "summary": "Exploring multi-user and multi-agent collaboration in urban co-design platforms and K–12 school selection advisory tools."
+      "summary": "Exploring multi-user and multi-agent collaboration in urban co-design platforms and K–12 school selection advisory tools.",
+      "url": ""
     },
     {
       "name": "Physiological and Psychological Responses to Urban Greenery",
-      "position": "",
       "organization": "NYU, Center for Urban Science + Progress, Global Public Health; University of Florida; Fordham University",
       "location": "New York, NY, USA",
       "startDate": "2025-07-01",
       "endDate": "",
       "supervisors": ["Prof. Anton Rozhkov", "Prof. Prince Amegbor", "Prof. Zhaoxi Zhang", "Prof. H. Shellae Versey"],
-      "summary": "An immersive experiment using virtual reality and multimodal measurement to study context-specific greenery and its effects on human physiology and psychology."
+      "summary": "An immersive experiment using virtual reality and multimodal measurement to study context-specific greenery and its effects on human physiology and psychology.",
+      "url": ""
     },
     {
       "name": "Spatial Analysis for Linguistic Landscape of Tianjin’s Former Concession",
-      "position": "",
       "organization": "Nankai University, School of Foreign Studies",
       "location": "Tianjin, China",
       "startDate": "2022-02-01",
@@ -146,28 +147,24 @@
       "title": "NYU Scholars Scholarship",
       "date": "2025-01-01",
       "awarder": "New York University",
-      "url": "",
       "summary": ""
     },
     {
       "title": "First Prize – NYU CUSP Data Dive: Open Space in New York City",
       "date": "2024-10-01",
       "awarder": "NYU Center for Urban Science and Progress",
-      "url": "",
       "summary": ""
     },
     {
       "title": "NYU Rising Scholars Scholarship",
       "date": "2024-09-01",
       "awarder": "New York University",
-      "url": "",
       "summary": ""
     },
     {
       "title": "Nankai University NITORI International Scholarship",
       "date": "2023-05-01",
       "awarder": "Nankai University",
-      "url": "",
       "summary": ""
     }
   ],
