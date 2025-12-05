@@ -54,31 +54,21 @@ ninja.data = [{
           description: "Montevideo, Uruguay — Field Research &amp; Cross-Cultural Urban Analytics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-ford",
-          title: 'Ford',
-          description: "",
+            },},{id: "projects-human-ai-co-design-for-urban-and-educational-systems",
+          title: 'Human–AI Co-Design for Urban and Educational Systems',
+          description: "Multi-Agent Participatory Platforms for Planning and School Choice",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
-            },},{id: "projects-ford",
-          title: 'Ford',
-          description: "",
+            },},{id: "projects-planning-with-residents",
+          title: 'Planning with Residents',
+          description: "Linking Simulations to Community Narratives",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
-            },},{id: "projects-ford",
-          title: 'Ford',
-          description: "",
+            },},{id: "projects-physiological-and-psychological-responses-to-urban-greenery",
+          title: 'Physiological and Psychological Responses to Urban Greenery',
+          description: "Immersive Experiment Using Virtual Reality and Multimodal Measurement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-ford",
-          title: 'Ford',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
-            },},{id: "projects-ford",
-          title: 'Ford',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
             },},{
         id: 'social-email',
         title: 'email',
