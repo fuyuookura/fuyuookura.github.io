@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I open at the end.
+subtitle: The world is my representation.
 
 profile:
   align: right
