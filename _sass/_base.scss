@@ -445,6 +445,7 @@ ul.task-list input[type="checkbox"] {
     font-size: 2rem;
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 1.5rem;
 
     a {
@@ -476,6 +477,26 @@ ul.task-list input[type="checkbox"] {
 
         i {
           color: var(--global-theme-color);
+        }
+      }
+    }
+
+    .clustrmaps-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 2rem;
+      height: 2rem;
+
+      a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        img {
+          width: 2rem;
+          height: 2rem;
+          margin-bottom: 0;
         }
       }
     }
